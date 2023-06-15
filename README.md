@@ -10,4 +10,4 @@
 
    **Note : The quality of the free and paid versions is different**
  
-Contact Telegram : @xxyz4 for buy paid version with 3 api server
+Contact Telegram : @xxyz4 for buy paid version with good api server and result
