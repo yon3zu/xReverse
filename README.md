@@ -1,7 +1,6 @@
 ## xReverse9
 
   **Features**
-  
   <image src="https://raw.githubusercontent.com/yon3zu/xreverse9/main/xrev.png" height="400">
   
   - _Custom Threading_
@@ -9,4 +8,6 @@
   - _Implemented To C++ to make it fast_
   - _Fresh Result_
 
-Contact Telegram : @xxyz4 for buy
+   **Note : The quality of the free and paid versions is different**
+ 
+Contact Telegram : @xxyz4 for buy paid version with 3 api server
