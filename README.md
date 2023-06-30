@@ -6,7 +6,7 @@
   **Features**
   
   - _Custom Threading_
-  - _2 Source Reverse IP_
+  - _4 Source Reverse IP_
   - _Implemented To C++ to make it fast_
   - _Fresh Result_
 
