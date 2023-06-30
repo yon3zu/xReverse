@@ -1,7 +1,8 @@
 ## xReverse9
 
-**Preview**
+**Preview**<br>
   <image src="https://raw.githubusercontent.com/yon3zu/xreverse9/main/xrev.png" height="400">
+  <br>
   **Features**
   
   - _Custom Threading_
