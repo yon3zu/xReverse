@@ -1,7 +1,8 @@
 ## xReverse9
 
-  **Features** <br>
+**Preview**
   <image src="https://raw.githubusercontent.com/yon3zu/xreverse9/main/xrev.png" height="400">
+  **Features**
   
   - _Custom Threading_
   - _2 Source Reverse IP_
