@@ -11,5 +11,7 @@
   - _Fresh Result_
 
    **Note : The quality of the free and paid versions is different**
+
+   Key : freeversion
  
 Contact Telegram : @xxyz4 for buy paid version with good api server and result
