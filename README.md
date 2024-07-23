@@ -1,7 +1,7 @@
-## xReverse9
+## xReverse v4.0
 
 **Preview**<br>
-  <image src="https://raw.githubusercontent.com/yon3zu/xreverse9/main/xrev.png" height="400">
+  <image src="https://xreverselabs.my.id/assets/img/view.png" height="400">
   <br>
   **Features**
   
@@ -9,6 +9,11 @@
   - _4 Source Reverse IP_
   - _Implemented To C++ to make it fast_
   - _Fresh Result_
+  - _Google & Bing Dorker_
+  - _Exploit Tools_
+  - _Opencart & Joomla Brute Force_
+  - _Laravel Scanner & Grabber ( .env & debug method )_
+  - _And More...._
 
    **Note : The quality of the free and paid versions is different**
 
