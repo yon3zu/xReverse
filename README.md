@@ -6,7 +6,8 @@
   **Features**
   
   - _Custom Threading_
-  - _4 Source Reverse IP_
+  - _10 Source Reverse IP_
+  - _Private & Maintenance Datacenter_
   - _Implemented To C++ to make it fast_
   - _Fresh Result_
   - _Google & Bing Dorker_
