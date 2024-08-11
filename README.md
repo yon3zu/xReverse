@@ -1,17 +1,16 @@
 ## xReverse v4.0
 
 ## Preview
-  <br>
   <image src="https://xreverselabs.my.id/assets/img/view.png" height="400">
   <br>
 
 ## Free Trial
-<br>
   <image src="https://raw.githubusercontent.com/yon3zu/xReverse/main/prev1.png" height="400">
   <br>
 
   <image src="https://raw.githubusercontent.com/yon3zu/xReverse/main/prev2.png" height="400">
   <br>
+    
   **Features**
   
   - _Custom Threading_
