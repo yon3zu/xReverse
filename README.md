@@ -6,10 +6,10 @@
   <br>
 
 **Free Trial**
-  <image src="https://xreverselabs.my.id/assets/img/prev1.png" height="400">
+  <image src="https://raw.githubusercontent.com/yon3zu/xReverse/main/prev1.png" height="400">
   <br>
 
-  <image src="https://xreverselabs.my.id/assets/img/prev2.png" height="400">
+  <image src="https://raw.githubusercontent.com/yon3zu/xReverse/main/prev2.png" height="400">
   <br>
   **Features**
   
