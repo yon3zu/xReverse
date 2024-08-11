@@ -1,7 +1,15 @@
 ## xReverse v4.0
 
-**Preview**<br>
+**Preview**
+  <br>
   <image src="https://xreverselabs.my.id/assets/img/view.png" height="400">
+  <br>
+
+**Free Trial**
+  <image src="https://xreverselabs.my.id/assets/img/prev1.png" height="400">
+  <br>
+
+  <image src="https://xreverselabs.my.id/assets/img/prev2.png" height="400">
   <br>
   **Features**
   
