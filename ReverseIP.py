@@ -13,7 +13,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
 
 def reverse_ip(ip):
-    url = f"https://apiv2.xreverselabs.my.id/?apiKey=freetrial&ip={ip}"
+    url = f"https://apiv2.xreverselabs.my.id/?apiKey={apiKey}&ip={ip}"
     user_agent = UserAgent().random
     headers = {"User-Agent": user_agent}
     try:
@@ -46,6 +46,7 @@ def main():
     print(Style.BRIGHT + Fore.LIGHTCYAN_EX + "="*50)
 
     file_name = input(Style.BRIGHT + Fore.YELLOW + "File list of IPs: ")
+    apiKey = input(Style.BRIGHT + Fore.YELLOW + "Your ApiKey: ")
     threads = int(input(Style.BRIGHT + Fore.YELLOW + "Number of threads to use: "))
 
     with open(file_name, 'r') as f:
